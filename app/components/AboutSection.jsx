@@ -1,6 +1,6 @@
 export default function AboutSection() {
   return (
-    <section className="flex flex-col md:flex-row items-center gap-8 p-8 bg-white max-w-[1200px] mx-auto">
+    <section className="flex flex-col md:flex-row items-center gap-8 p-8 max-w-[1200px] mx-auto">
       {/* Text Section */}
       <div className="flex-1 space-y-6 max-w-xl">
         <h2 className="text-6xl font-bold text-black">ABOUT</h2>

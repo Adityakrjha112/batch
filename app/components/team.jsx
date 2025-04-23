@@ -22,17 +22,17 @@ export default function TeamPage() {
     { 
       name: "Partner", 
       title: "President Retail & Creative", 
-      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745415654/brand/Big%20Oil/test/logos/c1e8a898d42ac92193efd726bd47ce88.png" 
+      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745426755/brand/Big%20Oil/test/logos/386f1ecdda5731622223fc05d469413a.png" 
     },
     { 
       name: "Gary Bookman", 
       title: "Head Operations", 
-      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745415654/brand/Big%20Oil/test/logos/c1e8a898d42ac92193efd726bd47ce88.png" 
+      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745426802/brand/Big%20Oil/test/logos/e9f92076d8e4851a6eb1c1b0dc9d06b5.png" 
     },
     { 
       name: "Vic Gelfon", 
       title: "GOP Manager", 
-      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745415654/brand/Big%20Oil/test/logos/c1e8a898d42ac92193efd726bd47ce88.png" 
+      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745426845/brand/Big%20Oil/test/logos/3b50e9af35cb292a048ebef5d5a78421.png" 
     },
     { 
       name: "Alex Bara", 
@@ -42,7 +42,7 @@ export default function TeamPage() {
     { 
       name: "Nevaeh Armiijo", 
       title: "Human Resources", 
-      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745415654/brand/Big%20Oil/test/logos/c1e8a898d42ac92193efd726bd47ce88.png" 
+      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745426802/brand/Big%20Oil/test/logos/e9f92076d8e4851a6eb1c1b0dc9d06b5.png" 
     },
     { 
       name: "Gary Liu", 
@@ -57,7 +57,7 @@ export default function TeamPage() {
     { 
       name: "Ashwin Yadav", 
       title: "Full Stack Developer", 
-      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745415654/brand/Big%20Oil/test/logos/c1e8a898d42ac92193efd726bd47ce88.png" 
+      imageSrc: "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1745426802/brand/Big%20Oil/test/logos/e9f92076d8e4851a6eb1c1b0dc9d06b5.png" 
     },
     { 
       name: "Shawn Mhara", 
@@ -67,7 +67,7 @@ export default function TeamPage() {
   ];
 
   return (
-    <div className="min-h-screen bg-white p-0">
+    <div className="min-h-screen p-0">
       <div className="max-w-[100%] mx-auto">
         <h1 className="text-5xl font-bold text-center mb-12">Meet Our Team</h1>
         
